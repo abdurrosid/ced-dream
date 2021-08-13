@@ -1,3 +1,5 @@
 Ced Resolusi
 - Saya ingin membuat web peminjaman alat 
 - Iot dengan localhosting
+- Membuat sebuah campaign kemanusiaan
+- Membuat usaha Iot
