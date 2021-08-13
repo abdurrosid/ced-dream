@@ -1,0 +1,3 @@
+Ced Resolusi
+- Saya ingin membuat web peminjaman alat 
+- Iot dengan localhosting
